@@ -1,15 +1,7 @@
-# package-name
-
-## Install
-
-```bash
-npm i package-name
-```
+# @vited/template-react-icon
 
 ## Usage
 
-```ts
-import { hello } from 'package-name';
-
-hello('world');
+```bash
+npm create @vited --template=react-icon my-project
 ```

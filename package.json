@@ -1,6 +1,6 @@
 {
   "name": "@vited/template-react-icon",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Vited template for React icon set projects",
   "keywords": [
     "node"
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/vitedjs/template-react-icon.git"
   },
   "funding": "https://github.com/sponsors/vitedjs",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "author": {
     "name": "Guo Yunhe",
     "email": "i@guoyunhe.me"
